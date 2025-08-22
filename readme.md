@@ -17,6 +17,11 @@ terraform fmt
 terraform validate
 terraform apply
 
+It will create the resouces as like below
+
+<img width="1230" height="516" alt="image" src="https://github.com/user-attachments/assets/546a166a-0ebd-4d8d-bdec-c940bf477d70" />
+
+
 
 
 
